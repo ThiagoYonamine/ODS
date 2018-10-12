@@ -10,16 +10,7 @@ public class DataBase{
 [System.Serializable]
 public class Question {
 	public string pergunta;
-	public Answers respostas;
+	public string[] respostas;
 	public string certa;
-	
-}
-
-[System.Serializable]
-public class Answers {
-	public string a;
-	public string b;
-	public string c;
-	public string d;
 	
 }

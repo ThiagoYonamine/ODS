@@ -1,0 +1,404 @@
+{
+    "questions": [
+      {
+        "pergunta": "O surgimento de doenças é influenciado por:",
+        "respostas": [
+          "Pobreza",
+          "Falta de saneamento básico",
+          "Baixo nível de educação",
+          "Todas as respostas estão corretas"
+        ],
+        "certa": "d"
+      },
+      {
+        "pergunta": "Depressão é:",
+        "respostas": [
+          "Doença",
+          "Frescura",
+          "Desocupação",
+          "Tristeza"
+        ],
+        "certa": "a"
+      },
+      {
+        "pergunta": "“Luz que se apaga, luz que não se paga”. Esse dito popular tem a ver com qual ODS?",
+        "respostas": [
+          "6 - Água potável e saneamento",
+          "16 - Paz e justiça para todos",
+          "2 - Fome zero e agricultura sustentável",
+          "12 - Consumo responsável"
+        ],
+        "certa": "d"
+      },
+      {
+        "pergunta": "O que podemos fazer para diminuir o consumo de água do planeta?",
+        "respostas": [
+          "Limpar a calçada com a água que já usamos para lavar as roupas",
+          "Encher baldes cobertos com água da chuva para lavar o carro",
+          "Fechar a torneira enquanto escovamos os dentes ou ensaboamos a louça",
+          "Todas as respostas estão corretas"
+        ],
+        "certa": "d"
+      },
+      {
+        "pergunta": "Quando se vê um terreno abandonado cheio de sujeira perto de casa, o melhor a fazer é:",
+        "respostas": [
+          "Avisar a prefeitura ou os agentes de vigilância em saúde do bairro",
+          "Aproveitar para jogar aí também o que está incomodando em casa",
+          "Reclamar da sujeira toda vez que se passa na frente",
+          "Cuidar do próprio quintal e esquecer desse terreno, porque cada um cuida do que é seu"
+        ],
+        "certa": "a"
+      },
+      {
+        "pergunta": "Vi um semáforo que apita e fiquei pensando:",
+        "respostas": [
+          "Está com defeito",
+          "Que barulho mais chato!",
+          "Serve para ajudar pessoas cegas a atravessar a rua, podia ter mais desses na cidade",
+          "Cada maluquice... só falta inventar um que toque samba"
+        ],
+        "certa": "c"
+      },
+      {
+        "pergunta": "Não colabora para reduzir a poluição no planeta:",
+        "respostas": [
+          "Andar a pé",
+          "Andar de carro",
+          "Andar de bicicleta",
+          "Andar de patins"
+        ],
+        "certa": "b"
+      },
+      {
+        "pergunta": "São ações que podem ajudar a melhorar a nutrição da população:",
+        "respostas": [
+          "Construir estradas",
+          "Construir hortas comunitárias",
+          "Construir bancos",
+          "Construir prédios"
+        ],
+        "certa": "b"
+      },
+      {
+        "pergunta": "Para diminuir a mortalidade materna, o que devemos fazer?",
+        "respostas": [
+          "Vacinar as gestantes",
+          "Tomar café",
+          "Dançar",
+          "Ter computador"
+        ],
+        "certa": "a"
+      },
+      {
+        "pergunta": "Qual desses abaixo, não é um tipo de violência:",
+        "respostas": [
+          "Tortura",
+          "Discriminação",
+          "Adoção",
+          "Trabalho infantil"
+        ],
+        "certa": "c"
+      },
+      {
+        "pergunta": "Quando uma mulher é maltratada pelo marido dentro de casa, por coisas que ele diz ou ameaças que faz, que tipo de violência ela está sofrendo?",
+        "respostas": [
+          "Violência por trabalho forçado",
+          "Violência de abandono",
+          "Violência de tráfico humano",
+          "Violência psicológica"
+        ],
+        "certa": "d"
+      },
+      {
+        "pergunta": "Crianças que vendem doces nos semáforos e lavam os para-brisas, estão fazendo qual tipo de trabalho?",
+        "respostas": [
+          "Trabalho infantil doméstico",
+          "Trabalho infantil nas ruas",
+          "Trabalho infantil no campo",
+          "Trabalho infantil sexual"
+        ],
+        "certa": "b"
+      },
+      {
+        "pergunta": "Quais dessas partes de plantas podem ser usadas para cozinhar?",
+        "respostas": [
+          "Casca da batata",
+          "Cenoura",
+          "Folha de beterraba",
+          "Todas as respostas estão corretas"
+        ],
+        "certa": "d"
+      },
+      {
+        "pergunta": "Não pode ser causada  por um acidente de trânsito:",
+        "respostas": [
+          "Síndrome de Down",
+          "Amputação",
+          "Paralisação de membros",
+          "Internação em hospital"
+        ],
+        "certa": "a"
+      },
+      {
+        "pergunta": "O alcoolismo é uma doença que traz muito sofrimento. Não é algo que o alcoolismo pode causar:",
+        "respostas": [
+          "Brigas familiares",
+          "Quedas e machucados",
+          "Acidentes de trânsito",
+          "Progresso na profissão"
+        ],
+        "certa": "d"
+      },
+      {
+        "pergunta": "Muitas pessoas falam em reflorestamento e em combater a poluição. O que devemos fazer?",
+        "respostas": [
+          "Jogar o lixo nas ruas e nos rios",
+          "Fazer queimadas nas plantações",
+          "Recuperar as florestas e as matas esgotadas e não jogar lixo nos rios",
+          "Poluir o ar e a água com inseticidas e agrotóxicos"
+        ],
+        "certa": "c"
+      },
+      {
+        "pergunta": "Alimentação saudável e livre de agrotóxicos colabora para alcançar qual ODS?",
+        "respostas": [
+          "2 - Fome zero e agricultura sustentável",
+          "7 - Energia limpa e acessível",
+          "9 - Indústria, inovação e infraestrutura",
+          "14 - Vida na água"
+        ],
+        "certa": "a"
+      },
+      {
+        "pergunta": "Alimento que faz parte do grupo de cereais:",
+        "respostas": [
+          "Espinafre",
+          "Abacaxi",
+          "Arroz",
+          "Chuchu"
+        ],
+        "certa": "c"
+      },
+      {
+        "pergunta": "É uma raiz ou tubérculo:",
+        "respostas": [
+          "Mandioca ou aipim ou macaxeira",
+          "Tomate",
+          "Agrião",
+          "Pepino"
+        ],
+        "certa": "a"
+      },
+      {
+        "pergunta": "Que alimento não deve ser consumido todos os dias?",
+        "respostas": [
+          "Arroz",
+          "Salgadinho de pacote",
+          "Feijão",
+          "Leite"
+        ],
+        "certa": "b"
+      },
+      {
+        "pergunta": "Além da alimentação adequada, que outro hábito devemos manter para uma vida saudável?",
+        "respostas": [
+          "Ver muita televisão",
+          "Praticar esporte",
+          "Dormir tarde",
+          "Ficar no celular"
+        ],
+        "certa": "b"
+      },
+      {
+        "pergunta": "No Brasil, a maior parte das Terras Indígenas fica:",
+        "respostas": [
+          "Na Região Nordeste",
+          "No Mato Grosso do Sul",
+          "Na Região Sul",
+          "Na Amazônia"
+        ],
+        "certa": "d"
+      },
+      {
+        "pergunta": "Para uma alimentação saudável, devemos comer pelo menos 3 frutas ao dia. Este alimento faz parte do grupo das frutas:",
+        "respostas": [
+          "Castanha de caju",
+          "Tomate",
+          "Vagem",
+          "Beterraba"
+        ],
+        "certa": "b"
+      },
+      {
+        "pergunta": "Quando se engana uma pessoa, para levá-la a trabalhar forçado, sem que ela tenha o direito de dizer não, nem de voltar para casa, o nome disso é:",
+        "respostas": [
+          "Tráfico de armas",
+          "Tráfico de órgãos",
+          "Tráfico de pessoas",
+          "Tráfico de drogas"
+        ],
+        "certa": "c"
+      },
+      {
+        "pergunta": "Lugares públicos devem ser acessíveis a todas as pessoas, por isso é importante que tenham:",
+        "respostas": [
+          "Vaga de estacionamento para deficiente",
+          "Rampa",
+          "Vaga de estacionamento para idoso",
+          "Todas as respostas estão corretas"
+        ],
+        "certa": "d"
+      },
+      {
+        "pergunta": "Agrotóxicos são, entre outros:",
+        "respostas": [
+          "Substâncias químicas",
+          "Alimentos",
+          "Bebidas",
+          "Produtos de limpeza"
+        ],
+        "certa": "a"
+      },
+      {
+        "pergunta": "São consequências do consumo de bebidas alcoólicas por crianças e jovens:",
+        "respostas": [
+          "Perda de memória",
+          "Dificuldade na aprendizagem",
+          "Tendência ao alcoolismo na vida adulta",
+          "Todas as respostas estão corretas"
+        ],
+        "certa": "d"
+      },
+      {
+        "pergunta": "Quais são as atitudes que não promovem uma vida saudável?",
+        "respostas": [
+          "Alimentação adequada, priorizando alimentos in natura e minimamente processados",
+          "Lazer e atividades ao ar livre, de preferência com companhia",
+          "Prática de esporte com frequência",
+          "Passar mais tempo com companhias virtuais que com as presenciais"
+        ],
+        "certa": "d"
+      },
+      {
+        "pergunta": "Discriminação contra a mulher, casamento prematuro, exploração sexual, são atitudes combatidas por qual ODS?",
+        "respostas": [
+          "1 - Erradicação da Pobreza",
+          "5 - Igualdade de Gênero",
+          "9 - Trabalho decente e desenvolvimento econômico",
+          "14 - Vida na água"
+        ],
+        "certa": "b"
+      },
+      {
+        "pergunta": "Quando fazemos coleta seletiva do lixo, a ideia é de:",
+        "respostas": [
+          "Reduzir o consumo",
+          "Reciclar o material",
+          "Reutilizar o descartado",
+          "Nenhuma das anteriores"
+        ],
+        "certa": "b"
+      },
+      {
+        "pergunta": "O que acontece quando falta saneamento básico?",
+        "respostas": [
+          "Aumentam as doenças na população",
+          "Igualdade social na população",
+          "A água é preservada",
+          "Controle da limpeza na cidade"
+        ],
+        "certa": "a"
+      },
+      {
+        "pergunta": "Uma atitude de consumo responsável é:",
+        "respostas": [
+          "Trocar celular novo e em perfeito estado por um modelo mais novo",
+          "Trocar um micro-ondas que funciona muito bem por outro que tem cor mais bonita",
+          "Comprar um livro novo quando eu já tenho outro igual só que está todo grifado",
+          "Nenhuma das repostas está correta"
+        ],
+        "certa": "d"
+      },
+      {
+        "pergunta": "Se é bom guardar água da chuva para lavar o carro, moto ou bicicleta, mas água acumulada pode fazer mosquito que causa doença se reproduzir, então como faço?",
+        "respostas": [
+          "Melhor se prevenir da doença, então nem guardo água",
+          "Ponho uma tela em cima dos baldes que vou usar para recolher água",
+          "Nem bem para de chover e vou lavar o carro, moto ou bicicleta",
+          "A intenção de guardar água é boa, é pra ajudar o planeta, então mosquito nem vai por ovo aí"
+        ],
+        "certa": "b"
+      },
+      {
+        "pergunta": "O que é saneamento básico?",
+        "respostas": [
+          "Uma forma de garantir a saúde da população e do meio ambiente",
+          "Saber que quantidade de lixo tem nas ruas",
+          "Conjunto de serviços que o cidadão tem obrigação de pagar",
+          "Melhorar a saúde de uma única pessoa e não de todo mundo"
+        ],
+        "certa": "a"
+      },
+      {
+        "pergunta": "Existe saneamento básico para todos?",
+        "respostas": [
+          "Sim. Todos têm serviços importantes para a qualidade de vida",
+          "Sim. São bem poucos que não têm esgotamento sanitário e água potável",
+          "Não. 4,5 bilhões de pessoas não tem saneamento",
+          "Todas as alternativas estão corretas"
+        ],
+        "certa": "c"
+      },
+      {
+        "pergunta": "Você armazena água da chuva para lavar o quintal. Esta atitude demonstra:",
+        "respostas": [
+          "Desperdício de água",
+          "Reutilização de água, para economizar",
+          "Economia de energia",
+          "Mais trabalho, podendo usar a mangueira"
+        ],
+        "certa": "b"
+      },
+      {
+        "pergunta": "Reflorestamento quando são arrancadas muitas árvores é uma ação para cumprir o ODS:",
+        "respostas": [
+          "12 - Consumo Responsável",
+          "15 - Vida terrestre",
+          "13 - Ação contra a mudança global do clima",
+          "Todas as respostas estão corretas"
+        ],
+        "certa": "d"
+      },
+      {
+        "pergunta": "Agroecologia e produção orgânica de alimentos colabora com qual ODS abaixo?",
+        "respostas": [
+          "2 - Fome zero e agricultura sustentável",
+          "3 - Saúde e bem estar",
+          "13 - Ação contra a mudança  global do clima",
+          "Todas as respostas estão corretas"
+        ],
+        "certa": "d"
+      },
+      {
+        "pergunta": "Como se retira o agrotóxico do alimento?",
+        "respostas": [
+          "Lava-se com água e sabão",
+          "Deixa de molho em água com bicarbonato de sódio",
+          "Deixa de molho no vinagre",
+          "Não há como retirar completamente o agrotóxico do alimento"
+        ],
+        "certa": "d"
+      },
+      {
+        "pergunta": "Os biscoitos recheados e refrigerantes fazem parte de que tipo de alimentos?",
+        "respostas": [
+          "Alimentos in natura e podem ser consumidos em grande quantidade",
+          "Alimentos minimamente processados e podem ser consumidos em grande quantidade",
+          "Alimentos processados e seu consumo deve ser limitado",
+          "Alimentos ultraprocessados e seu consumo deve ser evitado"
+        ],
+        "certa": "d"
+      }
+    ]
+  }

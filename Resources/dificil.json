@@ -1,0 +1,404 @@
+{
+    "questions": [
+      {
+        "pergunta": "O que são alimentos sazonais?",
+        "respostas": [
+          "Alimentos ultraprocessados",
+          "Alimentos que podem ser produzidos o ano inteiro",
+          "Alimentos que só podem ser produzidos em uma determinada estação ou época do ano",
+          "Alimentos in natura ou minimamente processados "
+        ],
+        "certa": "c"
+      },
+      {
+        "pergunta": "Alimentos considerados bons para a pele e visão são aqueles ricos em betacaroteno. São eles:",
+        "respostas": [
+          "Cenoura",
+          "Mamão",
+          "Goiaba",
+          "Todas as respostas estão corretas"
+        ],
+        "certa": "d"
+      },
+      {
+        "pergunta": "O Cerrado é um bioma que possui uma vegetação riquíssima em frutos e plantas medicinais. É um fruto do Cerrado:",
+        "respostas": [
+          "Banana",
+          "Manga",
+          "Guavira",
+          "Melão"
+        ],
+        "certa": "c"
+      },
+      {
+        "pergunta": "Não é uma habilidade social para conviver melhor com as pessoas:",
+        "respostas": [
+          "Empatia",
+          "Assertividade",
+          "Tolerância",
+          "Competitividade"
+        ],
+        "certa": "d"
+      },
+      {
+        "pergunta": "Nas cidades-gêmeas a doença circula livremente entre os países. Quantas cidades-gêmeas tem no Brasil?",
+        "respostas": [
+          "26",
+          "17",
+          "32",
+          "28"
+        ],
+        "certa": "c"
+      },
+      {
+        "pergunta": "Nas cidades de fronteira existe muita violência, que afeta a saúde da população. Quanto do território do Brasil é ocupado pela faixa de fronteira?",
+        "respostas": [
+          "10%",
+          "48%",
+          "27%",
+          "6%"
+        ],
+        "certa": "c"
+      },
+      {
+        "pergunta": "Um dos problemas de saúde que aumenta pela característica de território nas cidades-gêmeas é:",
+        "respostas": [
+          "Obesidade",
+          "Mal de Alzheimer",
+          "Violência",
+          "Diabetes"
+        ],
+        "certa": "c"
+      },
+      {
+        "pergunta": "Qual é a pior região do Brasil em saneamento básico?",
+        "respostas": [
+          "Sul",
+          "Norte",
+          "Sudeste",
+          "Nordeste"
+        ],
+        "certa": "b"
+      },
+      {
+        "pergunta": "Quem é o responsável pelo saneamento básico?",
+        "respostas": [
+          "Presidente",
+          "Empresa de água e esgoto",
+          "Prefeito",
+          "Governador"
+        ],
+        "certa": "c"
+      },
+      {
+        "pergunta": "Qual é um dos rios mais poluídos no Brasil porque se lança nele esgoto NÃO TRATADO e lixo?",
+        "respostas": [
+          "Rio Negro",
+          "Rio Tapajós",
+          "Rio Tietê",
+          "Rio Madeira"
+        ],
+        "certa": "d"
+      },
+      {
+        "pergunta": "Muitos países tem mais água tratada e melhor coleta de esgotos do que o Brasil, mas qual destes países tem situação pior que a do Brasil?",
+        "respostas": [
+          "Venezuela",
+          "Chile",
+          "Bolívia",
+          "Peru"
+        ],
+        "certa": "c"
+      },
+      {
+        "pergunta": "Quais são as doenças relacionadas à poluição da água?",
+        "respostas": [
+          "Cólera, Esquistossomose e Asma",
+          "Cólera, Esquistossomose e Intoxicação",
+          "Bronquite, Asma e Cólera",
+          "Bronquite, Esquistossomose e Asma"
+        ],
+        "certa": "b"
+      },
+      {
+        "pergunta": "Todas as doenças a seguir possuem vetores que se desenvolvem na água, exceto:",
+        "respostas": [
+          "Febre amarela",
+          "Dengue",
+          "Malária",
+          "Leptospirose"
+        ],
+        "certa": "d"
+      },
+      {
+        "pergunta": "Pessoas em pobreza extrema são as que vivem com valor igual ou inferior a:",
+        "respostas": [
+          "10,00 dólares por dia",
+          "5,00 dólares por dia",
+          "2,90 dólares por dia",
+          "1,90 dólares por dia"
+        ],
+        "certa": "d"
+      },
+      {
+        "pergunta": "Quais desses são sinais de que uma pessoa adulta com desnutrição?",
+        "respostas": [
+          "Peso elevado e queda de cabelo",
+          "Irritabilidade e perda de 5 a 10% de peso corporal em seis meses",
+          "Pressão alta e diabetes",
+          "Fome e sede"
+        ],
+        "certa": "b"
+      },
+      {
+        "pergunta": "Quais desses são sinais de uma criança com desnutrição?",
+        "respostas": [
+          "Ansiedade e mudança de comportamento",
+          "Peso elevado e cansaço",
+          "Choro e sono",
+          "Febre e falta de ar"
+        ],
+        "certa": "a"
+      },
+      {
+        "pergunta": "A desnutrição causa quantas mortes de crianças por ano?",
+        "respostas": [
+          "10% das crianças do mundo",
+          "30% das crianças do mundo",
+          "50% das crianças do mundo",
+          "60% das crianças do mundo"
+        ],
+        "certa": "b"
+      },
+      {
+        "pergunta": "O Brasil deve acabar com quais doenças até 2030?",
+        "respostas": [
+          "AIDS e Hepatites",
+          "Diabetes e Hipertensão",
+          "Câncer e Asma",
+          "Infarto e Pneumonia"
+        ],
+        "certa": "a"
+      },
+      {
+        "pergunta": "Um banho de 5 minutos, gasta aproximadamente quantos litros de água?",
+        "respostas": [
+          "60 litros",
+          "50 litros",
+          "40 litros",
+          "30 litros"
+        ],
+        "certa": "a"
+      },
+      {
+        "pergunta": "Escovar os dentes com a torneira aberta, durante 2 minutos, gasta quantos litros de água?",
+        "respostas": [
+          "5 litros",
+          "15 litros",
+          "30 litros",
+          "35 litros"
+        ],
+        "certa": "c"
+      },
+      {
+        "pergunta": "Para estimular a participação das mulheres na política, quantos candidatos tem que ser do sexo feminino?",
+        "respostas": [
+          "20% do total",
+          "30% do total",
+          "40% do total",
+          "50% do total"
+        ],
+        "certa": "b"
+      },
+      {
+        "pergunta": "Em todo o mundo, qual a porcentagem de alimentos que são jogados no lixo?",
+        "respostas": [
+          "5%",
+          "10%",
+          "20%",
+          "30%"
+        ],
+        "certa": "d"
+      },
+      {
+        "pergunta": "Uma gota de óleo jogada na pia da cozinha pode contaminar até quantos litros da água que está no meio ambiente?",
+        "respostas": [
+          "100 litros",
+          "1.000 litros",
+          "10.000 litros",
+          "100.000 litros"
+        ],
+        "certa": "b"
+      },
+      {
+        "pergunta": "Quem teve dengue uma vez, pode ter de novo. Quantos tipos de vírus da dengue existem?",
+        "respostas": [
+          "2",
+          "6",
+          "4",
+          "3"
+        ],
+        "certa": "c"
+      },
+      {
+        "pergunta": "O Brasil é o maior consumidor mundial desta droga, e ela é usada em 98% dos municípios do país:",
+        "respostas": [
+          "Maconha",
+          "Crack",
+          "Cocaína",
+          "Heroína"
+        ],
+        "certa": "b"
+      },
+      {
+        "pergunta": "O consumo de agrotóxicos prejudica a saúde física e mental. Na água que se bebe no Brasil, a lei permite que haja quantos tipos de agrotóxicos?",
+        "respostas": [
+          "3",
+          "Nenhum",
+          "27",
+          "7"
+        ],
+        "certa": "c"
+      },
+      {
+        "pergunta": "Três folhas comestíveis, ricas em ferro, que combatem a anemia são:",
+        "respostas": [
+          "Manjericão, salsinha e cebolinha",
+          "Folha de maracujá, de goiaba e de limão",
+          "Couve, rúcula e agrião",
+          "Acelga, alface e repolho"
+        ],
+        "certa": "c"
+      },
+      {
+        "pergunta": "A fêmea do mosquito Aedes Aegypti põe ovos brancos que irão se tornar pretos e indestrutíveis depois de:",
+        "respostas": [
+          "1 mês",
+          "2 dias",
+          "11 horas",
+          "3 semanas"
+        ],
+        "certa": "c"
+      },
+      {
+        "pergunta": "Cálcio e Ferro competem para ver quem se fixa no corpo, então há alimentos que não podem ser consumidos juntos para melhor aproveitamento destes dois componentes. São eles:",
+        "respostas": [
+          "Pão e queijo",
+          "Macarrão e carne",
+          "Peixe e alface",
+          "Carne e leite"
+        ],
+        "certa": "d"
+      },
+      {
+        "pergunta": "A população indígena se divide em etnias. Quantas etnias existem no Brasil?",
+        "respostas": [
+          "305",
+          "280",
+          "60",
+          "150"
+        ],
+        "certa": "a"
+      },
+      {
+        "pergunta": "De 2000 a 2017, foram registradas 108.134 gestantes com HIV no Brasil. A maior parte delas:",
+        "respostas": [
+          "Tinha entre 20 e 24 anos",
+          "Tinha ensino médio completo",
+          "Era branca e indígena",
+          "Era da região Centro-Oeste do país"
+        ],
+        "certa": "a"
+      },
+      {
+        "pergunta": "A Sífilis é uma doença que se transmite",
+        "respostas": [
+          "Por relação sexual, e, também, pelo contato com sangue contaminado",
+          "Por relação sexual, e, também, da mãe para o bebê no útero ou no parto",
+          "Da mãe para o bebê no útero ou no parto",
+          "Pelo contato com lesões das pessoas que estão doentes"
+        ],
+        "certa": "b"
+      },
+      {
+        "pergunta": "Para cada mil crianças que nascem no Brasil, aproximadamente quantas delas morrem com até um ano de idade?",
+        "respostas": [
+          "Até 20 crianças",
+          "Até 15 crianças",
+          "Até 10 crianças",
+          "Até 5 crianças"
+        ],
+        "certa": "a"
+      },
+      {
+        "pergunta": "Qual dos países é o campeão em desmatamento?",
+        "respostas": [
+          "Brasil",
+          "Estados Unidos",
+          "Indonésia",
+          "China"
+        ],
+        "certa": "c"
+      },
+      {
+        "pergunta": "Não é uma consequência do desmatamento no mundo:",
+        "respostas": [
+          "O desgaste dos solos com o aumento da erosão e desertificação",
+          "A extinção ou degradação de rios e lagos, pelo acúmulo de sedimentos gerados",
+          "O aumento da preservação de vegetação e cultivo de novas espécies",
+          "A ocorrência de desequilíbrios climáticos"
+        ],
+        "certa": "c"
+      },
+      {
+        "pergunta": "Como posso pegar Doença de Chagas?",
+        "respostas": [
+          "Tomando um delicioso caldo de cana",
+          "Comendo um refrescante açaí natural",
+          "Morando em casa de madeira, com frestas, em área sem saneamento",
+          "Todas as respostas estão corretas"
+        ],
+        "certa": "d"
+      },
+      {
+        "pergunta": "Como a vacina age em nosso corpo?",
+        "respostas": [
+          "Estimulando a produção de anticorpos e de células de memória do sistema imunológico",
+          "Inserindo anticorpos prontos e fazendo a imunização passiva",
+          "Eliminando a doença que já está instalada",
+          "Evitando uma doença e causando outra"
+        ],
+        "certa": "a"
+      },
+      {
+        "pergunta": "A quantidade de pessoas que passa fome no mundo é:",
+        "respostas": [
+          "1 a cada 100 pessoas no mundo",
+          "1 a cada 48 pessoas no mundo",
+          "1 a cada 9 pessoas no mundo",
+          "1 a cada 1.200 pessoas no mundo"
+        ],
+        "certa": "c"
+      },
+      {
+        "pergunta": "Entre as vítimas de violência sexual, 89%:",
+        "respostas": [
+          "são mulheres",
+          "são crianças",
+          "são indígenas",
+          "são idosos"
+        ],
+        "certa": "a"
+      },
+      {
+        "pergunta": "Queijos são alimentos ricos em proteínas, vitamina A e cálcio. No entanto, seu consumo deve ser moderado. Por quê?",
+        "respostas": [
+          "Porque contém gordura saturada",
+          "Porque possuem muito sódio, devido ao sal",
+          "Porque possuem pouca água",
+          "Todas as respostas estão corretas"
+        ],
+        "certa": "d"
+      }
+    ]
+  }

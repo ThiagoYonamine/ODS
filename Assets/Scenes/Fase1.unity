@@ -302,42 +302,42 @@ Prefab:
     - target: {fileID: 224732455245057434, guid: 5a706e5179f8e3e4890f24dd006479da,
         type: 2}
       propertyPath: m_AnchoredPosition.x
-      value: -3.9
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 224732455245057434, guid: 5a706e5179f8e3e4890f24dd006479da,
         type: 2}
       propertyPath: m_AnchoredPosition.y
-      value: 7.8
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 224732455245057434, guid: 5a706e5179f8e3e4890f24dd006479da,
         type: 2}
       propertyPath: m_SizeDelta.x
-      value: 826
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 224732455245057434, guid: 5a706e5179f8e3e4890f24dd006479da,
         type: 2}
       propertyPath: m_SizeDelta.y
-      value: 1362.9
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 224732455245057434, guid: 5a706e5179f8e3e4890f24dd006479da,
         type: 2}
       propertyPath: m_AnchorMin.x
-      value: 0.5
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 224732455245057434, guid: 5a706e5179f8e3e4890f24dd006479da,
         type: 2}
       propertyPath: m_AnchorMin.y
-      value: 0.5
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 224732455245057434, guid: 5a706e5179f8e3e4890f24dd006479da,
         type: 2}
       propertyPath: m_AnchorMax.x
-      value: 0.5
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 224732455245057434, guid: 5a706e5179f8e3e4890f24dd006479da,
         type: 2}
       propertyPath: m_AnchorMax.y
-      value: 0.5
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 224732455245057434, guid: 5a706e5179f8e3e4890f24dd006479da,
         type: 2}
@@ -847,7 +847,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Vamos comer\xE7ar!"
+  m_Text: "Vamos come\xE7ar!"
 --- !u!222 &2096462900
 CanvasRenderer:
   m_ObjectHideFlags: 0

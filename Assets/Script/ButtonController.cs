@@ -7,4 +7,8 @@ public class ButtonController : MonoBehaviour {
 	public void LoadScene(string scene){
 		SceneManager.LoadScene(scene);
 	}
+
+	public void quit(){
+		Application.Quit();
+	}
 }

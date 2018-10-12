@@ -10,7 +10,7 @@ public class LoadScene : MonoBehaviour {
 	public string scene;
 	// Use this for initialization
 	void Start () {
-		timeLeft = 2f; // 2 sec
+		timeLeft = 3f; // 3 sec
 	}
 	
 	// Update is called once per frame
