@@ -11,4 +11,8 @@ public class ButtonController : MonoBehaviour {
 	public void quit(){
 		Application.Quit();
 	}
+
+	public void destroy(GameObject obj){
+		obj.SetActive(false);
+	}
 }

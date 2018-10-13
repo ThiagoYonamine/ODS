@@ -1,0 +1,404 @@
+{
+    "questions": [
+      {
+        "pergunta": "O que são cidades-gêmeas?",
+        "respostas": [
+          "Cidades que foram fundadas no mesmo dia e mesmo ano",
+          "Cidades com mesmo tamanho e número de habitantes iguais",
+          "Cidades perto uma da outra e muito parecidas",
+          "Cidades na fronteira de países em que acontecem muitas trocas econômicas e culturais"
+        ],
+        "certa": "d"
+      },
+      {
+        "pergunta": "O tráfico de drogas e armas fica mais fácil nas fronteiras. O Brasil faz fronteira com todos os países da América do Sul, exceto:",
+        "respostas": [
+          "Venezuela e Peru",
+          "Colômbia e Suriname",
+          "Guiana Francesa e Uruguai",
+          "Chile e Equador"
+        ],
+        "certa": "d"
+      },
+      {
+        "pergunta": "Não é um problema de saúde comum às cidades fronteiriças:",
+        "respostas": [
+          "Acidentes de trânsito",
+          "Autismo",
+          "Abuso de drogas",
+          "Violência"
+        ],
+        "certa": "b"
+      },
+      {
+        "pergunta": "Sobre o suicídio, é verdadeiro:",
+        "respostas": [
+          "Quando a pessoa ameaça que vai se matar, ela não cumpre",
+          "É fácil saber quem corre risco de se matar porque a pessoa está sempre triste",
+          "Se tirar de perto tudo o que a pessoa poderia usar para se matar acaba o risco",
+          "É um problema de saúde que pode ser evitado e se deve procurar um profissional de saúde mental"
+        ],
+        "certa": "d"
+      },
+      {
+        "pergunta": "A dependência das drogas:",
+        "respostas": [
+          "Não é difícil deixar: é só ter determinação e querer parar",
+          "Acontece porque a pessoa é fraca e vai na onda das outras",
+          "É um problema de saúde, com muitas causas, que deve ser tratada por vários profissionais, e incluir a família, sempre que possível",
+          "Dá para sair dessa tirando todas as drogas de perto e cortando a convivência com os amigos que usam"
+        ],
+        "certa": "c"
+      },
+      {
+        "pergunta": "É meta da ODS 11 Cidades e Comunidades sustentáveis:",
+        "respostas": [
+          "Combater a desertificação",
+          "Reduzir a taxa de mortalidade materna",
+          "Garantir habitações decentes e acesso a serviços básicos de qualidade (saúde, educação, lazer, transporte, entre outros)",
+          "Erradicar a sobrepesca e a pesca ilegal"
+        ],
+        "certa": "c"
+      },
+      {
+        "pergunta": "A Organização das Nações Unidas (ONU) lançou 17 Objetivos do Desenvolvimento Sustentável para transformar o mundo até o ano:",
+        "respostas": [
+          "2019",
+          "2030",
+          "2020",
+          "2045"
+        ],
+        "certa": "b"
+      },
+      {
+        "pergunta": "Os 3Rs são atitudes para diminuir o desperdício de materiais e produtos, e para não acabar com a natureza. Esses 3Rs significam:",
+        "respostas": [
+          "Reutilizar, Reciclar, Reduzir",
+          "Reproduzir, Refazer, Reformar",
+          "Rir, Riscar, Rimar",
+          "Redirecionar, Repetir, Readaptar"
+        ],
+        "certa": "a"
+      },
+      {
+        "pergunta": "O lixo orgânico (sobras de alimentos) também pode ser reciclado virando adubo para plantas, por um processo chamado:",
+        "respostas": [
+          "Compostagem",
+          "Adubagem",
+          "Enriquecimento",
+          "Porcentagem"
+        ],
+        "certa": "a"
+      },
+      {
+        "pergunta": "O ODS 15 propõe ações acabar com a prática de salários inferiores para as mulheres, ou a diferença de leis para homens ou mulheres. Este Objetivo é:",
+        "respostas": [
+          "Saúde e bem estar para todos",
+          "Educação de qualidade",
+          "Igualdade de gênero",
+          "Erradicação da pobreza"
+        ],
+        "certa": "c"
+      },
+      {
+        "pergunta": "Epidemias de doenças como zika, dengue e chikungunya estão relacionadas com:",
+        "respostas": [
+          "Boa rede de saneamento básico",
+          "Cidadãos conscientes da sua responsabilidade de manter o ambiente limpo",
+          "Falta de esgoto, serviço de água corrente falho, moradia precária",
+          "Coleta de água de chuva em baldes com tampa para uso posterior"
+        ],
+        "certa": "c"
+      },
+      {
+        "pergunta": "As próteses com impressão 3D, para uso em lugar de membros do corpo que foram amputados, são avanços da ciência e colaboram para o cumprimento do ODS:",
+        "respostas": [
+          "10 - Redução das desigualdades",
+          "6 - Água potável e saneamento",
+          "14 - Vida na água",
+          "11 - Cidades e comunidades sustentáveis"
+        ],
+        "certa": "a"
+      },
+      {
+        "pergunta": "As tecnologias digitais trouxeram a possibilidade da educação a distância (EAD). Este avanço possibilitado pela ciência é sustentável porque:",
+        "respostas": [
+          "Diminui o deslocamento das pessoas",
+          "Reduz a poluição jogada no ambiente",
+          "Há redução do  uso de ar condicionado",
+          "Todas as respostas estão corretas"
+        ],
+        "certa": "d"
+      },
+      {
+        "pergunta": "Tem um alimento que é roxo, doce, pode comer cru e ajuda a crescer o cabelo. Este alimento é:",
+        "respostas": [
+          "Uva",
+          "Repolho roxo",
+          "Rabanete",
+          "Beterraba"
+        ],
+        "certa": "d"
+      },
+      {
+        "pergunta": "Cada alimento traz algum benefício se estiver em estado natural. O alimento famoso por evitar câimbras é:",
+        "respostas": [
+          "Carne",
+          "Ovo",
+          "Banana",
+          "Alface"
+        ],
+        "certa": "c"
+      },
+      {
+        "pergunta": "Contra qual destas doenças ainda não existe vacina?",
+        "respostas": [
+          "Catapora",
+          "Chikungunya",
+          "Hepatites",
+          "Sarampo"
+        ],
+        "certa": "b"
+      },
+      {
+        "pergunta": "Para onde o esgoto da sua casa deveria ir?",
+        "respostas": [
+          "Rua",
+          "Bueiro",
+          "Córrego",
+          "Rede coletora"
+        ],
+        "certa": "d"
+      },
+      {
+        "pergunta": "O mosquito Aedes Aegypti, responsável por transmitir a dengue, pode aumentar por falta de saneamento básico?",
+        "respostas": [
+          "Falso",
+          "Verdadeiro",
+          "Somente nos meses frios do ano",
+          "Somente nos meses quentes do ano"
+        ],
+        "certa": "b"
+      },
+      {
+        "pergunta": "É causada por jogar lixo de forma errada:",
+        "respostas": [
+          "Poluição do ar",
+          "Poluição da água",
+          "Poluição do solo",
+          "Poluição sonora"
+        ],
+        "certa": "c"
+      },
+      {
+        "pergunta": "No Brasil 4 milhões de pessoas não têm banheiro. Isto significa que:",
+        "respostas": [
+          "Construir banheiro na casa é caro",
+          "Moradia, saneamento e água são problemas muito sérios no Brasil e afetam a saúde",
+          "Muita gente usa penico",
+          "Muitas pessoas usam fossa séptica"
+        ],
+        "certa": "b"
+      },
+      {
+        "pergunta": "Entre as recomendações a seguir, qual não ajuda a não ter doenças relacionadas com a água?",
+        "respostas": [
+          "Lavar sempre as mãos",
+          "Ter bons hábitos de higiene",
+          "Usar sempre camisinha",
+          "Evitar andar em locais com enchentes"
+        ],
+        "certa": "c"
+      },
+      {
+        "pergunta": "Qual não é uma doença que acontece porque a pessoa mora em lugar inadequado?",
+        "respostas": [
+          "Dengue",
+          "Leishmaniose",
+          "Tuberculose",
+          "Diabetes"
+        ],
+        "certa": "d"
+      },
+      {
+        "pergunta": "Qual dessas não é um tipo de energia sustentável?",
+        "respostas": [
+          "Energia termonuclear",
+          "Energia solar",
+          "Energia eólica",
+          "Energia hídrica"
+        ],
+        "certa": "a"
+      },
+      {
+        "pergunta": "Quais desses materiais não podem ser reciclados?",
+        "respostas": [
+          "Sacolas plásticas e tampas de garrafas",
+          "Folhas de caderno e vidros",
+          "Pregos e caixa de pizza",
+          "Espelhos e cerâmicas"
+        ],
+        "certa": "d"
+      },
+      {
+        "pergunta": "A vacinação é importante porque protege de muitas doenças. Existe uma vacina que se dá às crianças que é em gotas. Ela serve para proteger a criança contra:",
+        "respostas": [
+          "Coqueluche",
+          "Tétano",
+          "Paralisia infantil (poliomielite)",
+          "Sarampo"
+        ],
+        "certa": "c"
+      },
+      {
+        "pergunta": "A doença causada pela picada do mosquito Aedes Aegypti que, se ocorrer em uma gestante, tem risco de causar malformação no bebê que está no útero é:",
+        "respostas": [
+          "Febre amarela",
+          "Dengue",
+          "Chikungunya",
+          "Zika"
+        ],
+        "certa": "d"
+      },
+      {
+        "pergunta": "Um problema muito comum em cidades de fronteira, pela dificuldade de controle da alfândega, e que impacta na saúde é:",
+        "respostas": [
+          "Acidentes de trânsito com motos",
+          "Acidentes de trânsito com bicicleta",
+          "Acidentes de trânsito com carros",
+          "Acidentes de trânsito com patins"
+        ],
+        "certa": "a"
+      },
+      {
+        "pergunta": "Hoje se usa diferentes fontes de energia, como o sol, o vento e a água. As energias produzidas pelo sol e pelo vento são chamadas:",
+        "respostas": [
+          "Energia nuclear e energia eólica",
+          "Energia hidroelétrica e energia atômica",
+          "Energia solar e energia eólica",
+          "Energia eólica e energia hidroelétrica"
+        ],
+        "certa": "c"
+      },
+      {
+        "pergunta": "O que ajuda a diminuir o consumo de energia elétrica?",
+        "respostas": [
+          "Evitar o uso de lâmpadas fluorescentes",
+          "Deixar a porta da geladeira aberta",
+          "Dormir com a televisão ligada",
+          "Comprar aparelhos elétricos que tenham o selo do Procel"
+        ],
+        "certa": "d"
+      },
+      {
+        "pergunta": "Em uma usina hidrelétrica, a água é aproveitada para:",
+        "respostas": [
+          "O abastecimento para as cidades",
+          "A produção de energia",
+          "A irrigação de terras",
+          "A formação de açudes"
+        ],
+        "certa": "b"
+      },
+      {
+        "pergunta": "O que deve ser feito para combater o desmatamento no mundo?",
+        "respostas": [
+          "Garantir que, nas áreas urbanas, o número de árvores por habitante não seja muito pequeno",
+          "Preservar a vegetação existente e plantar novas espécies",
+          "Adotar medidas de conservação das áreas naturais com vigilância, fiscalização e repressão dos agressores a áreas de reservas naturais",
+          "Todas as respostas estão corretas"
+        ],
+        "certa": "d"
+      },
+      {
+        "pergunta": "Uma doença conhecida por afetar a memória e que costuma aparecer em pessoas com mais idade é:",
+        "respostas": [
+          "Amnésia",
+          "Alzheimer",
+          "Parkinson",
+          "Encefalite"
+        ],
+        "certa": "b"
+      },
+      {
+        "pergunta": "Leptospirose é uma doença comum de áreas de enchentes e de saneamento precário. Ela é causada pela urina de:",
+        "respostas": [
+          "Barata",
+          "Rato",
+          "Lagartixa",
+          "Aranha"
+        ],
+        "certa": "b"
+      },
+      {
+        "pergunta": "O animal que atua como intermediário entre um agente infectante e o homem, transmitindo doenças, recebe o nome de:",
+        "respostas": [
+          "Mosquito",
+          "Vetor",
+          "Transmissor",
+          "Contaminante"
+        ],
+        "certa": "b"
+      },
+      {
+        "pergunta": "Que medida não ajuda a obter alimentos sem agrotóxicos?",
+        "respostas": [
+          "Escolher alimentos da época",
+          "Escolher alimentos produzidos localmente",
+          "Escolher alimentos orgânicos ou agroecológicos",
+          "Lavar os alimentos com bicarbonato ou hipoclorito de sódio"
+        ],
+        "certa": "d"
+      },
+      {
+        "pergunta": "Reduzir, reutilizar e reciclar são metas do seguinte ODS:",
+        "respostas": [
+          "3 - Saúde e bem estar",
+          "5 - Igualdade de gênero",
+          "12 - Consumo e produção sustentáveis",
+          "16 - Paz, justiça e instituições eficazes"
+        ],
+        "certa": "c"
+      },
+      {
+        "pergunta": "Não é meta do ODS 10 sobre Redução das Desigualdades:",
+        "respostas": [
+          "Aumentar a renda da população mais pobre",
+          "Aumentar a renda dos mais ricos",
+          "Promover a inclusão social",
+          "Garantir oportunidades iguais"
+        ],
+        "certa": "b"
+      },
+      {
+        "pergunta": "Que outro grupo de alimentos, além das carnes e ovos, é rico em proteína?",
+        "respostas": [
+          "Cereais",
+          "Feijões",
+          "Raízes e tubérculos",
+          "Castanhas e nozes"
+        ],
+        "certa": "b"
+      },
+      {
+        "pergunta": "Um mineiro inventou uma forma de aumentar a quantidade de luz dentro de casa, usando garrafa pet e luz do sol (energia limpa e acessível – ODS 7). Essa invenção recebeu o nome de:",
+        "respostas": [
+          "Lâmpada de Pet",
+          "Lâmpada de Minas",
+          "Lâmpada de Moser",
+          "Lâmpada de Sol"
+        ],
+        "certa": "c"
+      },
+      {
+        "pergunta": "Quais são os benefícios de se alimentar com Pequi?",
+        "respostas": [
+          "É rico em vitamina A e C (antioxidantes)",
+          "Controla o colesterol ruim",
+          "Faz bem para a visão",
+          "Todas as respostas estão corretas"
+        ],
+        "certa": "d"
+      }
+    ]
+  }

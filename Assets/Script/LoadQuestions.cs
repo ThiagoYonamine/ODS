@@ -6,7 +6,8 @@ using System.IO;
 using UnityEngine.SceneManagement;
 
 public class LoadQuestions : MonoBehaviour {
-
+	public AudioClip sound_correct, sound_wrong;
+	public AudioSource audioSrc;
 	public Image timer;
 	public Text txt_question;
 	public Button btn_a;
@@ -15,7 +16,7 @@ public class LoadQuestions : MonoBehaviour {
 	public Button btn_d;
 	public Button btn_next;
 	public string nivel;
-
+	public Text txt_score;
 	public GameObject[] lifesUI;
 
 	private Text btn_txt_a;
@@ -31,10 +32,13 @@ public class LoadQuestions : MonoBehaviour {
 	private Color correct;
 	private Color normal;
 
-	private int acertos;
+	private int answered;
+	private float score;
+	private float scoreAux;
+	private int scoreNivel;
 	private bool activeTimer;
 
-	private int correctsToNextLevel = 5;
+	private int answersToNextLevel = 5;
 	private int lifes;
 
 	// Use this for initialization
@@ -45,12 +49,19 @@ public class LoadQuestions : MonoBehaviour {
 		questionsMap = new Dictionary<char, char>();
 		if(nivel=="facil"){
 			PlayerPrefs.SetInt("lifes", 3);
+			PlayerPrefs.SetInt("score", 0);
 		}
+
 		lifes = PlayerPrefs.GetInt("lifes");
+		score = PlayerPrefs.GetInt("score");
+		scoreAux = score;
 
 		string file = nivel + ".json";
-
 		string path = "Resources/" + file;
+		if(nivel == "facil") scoreNivel = 10;
+		if(nivel == "medio") scoreNivel = 20;
+		if(nivel == "dificil") scoreNivel = 30;
+
 		StreamReader reader = new StreamReader(path);
 		string json = reader.ReadToEnd();
 		db = JsonUtility.FromJson<DataBase>(json);
@@ -63,21 +74,30 @@ public class LoadQuestions : MonoBehaviour {
 		btn_txt_d = btn_d.GetComponentInChildren<Text>();
 		btn_next.gameObject.SetActive(false);
 
-		acertos=0;
+		answered=0;
 		reset();
 		loadRandomQuestion();
 	}
 
-	public void loadRandomQuestion() {
-		if(acertos == correctsToNextLevel) {
-			goToNextLevel(nivel);
-			return;
+	void play(string audio){
+		if(audio=="correct"){
+			audioSrc.PlayOneShot(sound_correct);
+		} else{
+			audioSrc.PlayOneShot(sound_wrong);
 		}
-
+	}
+	public void loadRandomQuestion() {
+		PlayerPrefs.SetInt("score", Mathf.RoundToInt(score));
 		if(lifes <= 0) {
 			SceneManager.LoadScene("GameOver");
 			return;
 		}
+
+		if(answered == answersToNextLevel) {
+			goToNextLevel(nivel);
+			return;
+		}
+
 		reset();
 
 		if(db.questions.Length > 0) {
@@ -112,11 +132,14 @@ public class LoadQuestions : MonoBehaviour {
 		if (activeTimer) {
 			char certa = db.questions[index].certa[0];
 			bool isCorrect;
+			answered++;
 			if (response[0] == questionsMap[certa]) {
-				acertos++;
 				isCorrect = true;
+				scoreAux += scoreNivel;
+				play("correct");
 			} else {
 				isCorrect = false;
+				play("wrong");
 			}
 			showCorrectAnswer(certa, isCorrect);
 		}
@@ -133,11 +156,14 @@ public class LoadQuestions : MonoBehaviour {
 		btn_d.image.color = normal;
 		timer.fillAmount = 0;
 		activeTimer = true;
+		txt_score.text = score.ToString();
 		btn_next.gameObject.SetActive(false);
+		txt_score.gameObject.SetActive(false);
 		 
 	}
 
 	private void showLifes(bool isCorrect) {
+		txt_score.gameObject.SetActive(true);
 		for(int i=0;i<=lifes;i++) {
 			lifesUI[i].SetActive(true);
 		}
@@ -167,6 +193,19 @@ public class LoadQuestions : MonoBehaviour {
 				sendResponse("x");
 			}
 		}
+
+		if(scoreAux > score && txt_score.gameObject.active) {
+			score = Mathf.Lerp(score, scoreAux, 0.1f);
+			int intVal = Mathf.RoundToInt(score);
+			txt_score.fontSize += 1;
+			txt_score.color = Color.green;
+		    txt_score.text = intVal.ToString();
+				
+		}
+		if(Mathf.RoundToInt(score) == Mathf.RoundToInt(scoreAux)) {
+			txt_score.fontSize = Mathf.RoundToInt(Mathf.Lerp(txt_score.fontSize, 100f, 0.1f));
+			txt_score.color = Color.yellow;
+	 	}
     }
 
 	void goToNextLevel(string current){
@@ -188,4 +227,5 @@ public class LoadQuestions : MonoBehaviour {
 		PlayerPrefs.SetInt("lifes", lifes);
 		SceneManager.LoadScene(nextLevel);
 	}
+
 }
